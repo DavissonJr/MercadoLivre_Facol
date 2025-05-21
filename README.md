@@ -18,11 +18,11 @@ O projeto foi desenvolvido em **Java** e aplica conceitos fundamentais de POO, c
 ## 🗂️ Estrutura de Arquivos
 
 📂 src
-┣ 📄 Eletrodomestico.java
-┣ 📄 IRepositorio.java
-┣ 📄 Main.java
-┣ 📄 Produto.java
-┗ 📄 ProdutoRepositorio.java
+|- 📄 Eletrodomestico.java
+|-📄 IRepositorio.java
+|-📄 Main.java
+|- 📄 Produto.java
+|-📄 ProdutoRepositorio.java
 ---
 
 ## 🏗️ Funcionalidades das Classes
