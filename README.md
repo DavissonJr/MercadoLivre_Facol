@@ -89,3 +89,12 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```
 2. Abra em sua IDE Java (Eclipse, IntelliJ, NetBeans ou VSCode com extensão Java).
 3. Compile e execute o arquivo Main.java.
+
+---
+
+## Colaboradores
+- Dávisson Falcão
+- Jefferson Rodrigo
+- Luiz Simeone
+- Marcus Cunha
+- João Guilherme (Representante)
